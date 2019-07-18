@@ -1,0 +1,32 @@
+body {
+    background-color: #ededed !important;
+}
+
+.chart-label.left {
+    text-align: right;
+    padding-right: 15px;
+}
+
+.chart1.Graduate {
+    background-color: #d95f02;
+    margin-left: 10px !important;
+    display: inline-block;
+    height: 10px;
+    width: 20px;
+}
+
+.chart1.Ungraduate {
+    background-color: #1b9e77;
+    margin-left: 10px !important;
+    display: inline-block;
+    height: 10px;
+    width: 20px;
+}
+
+.chart1.Non-Degree {
+    background-color: #7570b3;
+    margin-left: 10px !important;
+    display: inline-block;
+    height: 10px;
+    width: 20px;
+}
